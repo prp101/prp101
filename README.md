@@ -8,7 +8,7 @@ Experienced Backend Developer & Solution Architect. Language-agnostic, currently
 
 Passionate about the entire project lifecycle: from analysis and development to architecture and delivery.
 
-Building the future in both Web2 and Web3. Crypto enthusiast.
+Building the future in both Web2 and Web3. Crypto enthusiast (OG 2016).
 
 * 🌍  I'm based in Croatia
 * 🖥️  See my portfolio at [Github](http://github.com/prp101)
